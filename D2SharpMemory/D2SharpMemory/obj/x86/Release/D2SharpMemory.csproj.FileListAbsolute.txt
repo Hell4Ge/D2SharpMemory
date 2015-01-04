@@ -1,0 +1,3 @@
+c:\users\dell\documents\visual studio 2015\Projects\D2SharpMemory\D2SharpMemory\bin\x86\Release\D2SharpMemory.dll
+c:\users\dell\documents\visual studio 2015\Projects\D2SharpMemory\D2SharpMemory\obj\x86\Release\D2SharpMemory.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\D2SharpMemory\D2SharpMemory\obj\x86\Release\D2SharpMemory.csprojResolveAssemblyReference.cache
